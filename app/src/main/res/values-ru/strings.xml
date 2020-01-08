@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="male">МУЖЧИНА</string>
+    <string name="female">ЖЕНЩИНА</string>
+    <string name="height">РОСТ</string>
+    <string name="weight">ВЕС</string>
+    <string name="age">ВОЗРОСТ</string>
+    <string name="your_result">Ваш Результат</string>
+
+    <string name="you_have_a_normal_body_weight_good_job">You have a normal body weight. Good job!</string>
+
+    <string name="normal">НОРМАЛЬНЫЙ</string>
+    <string name="underweight">ДЕФИЦЫТ МАССЫ ТЕЛА</string>
+    <string name="over_weight">ИЗБЫТОЧНАЯ МАССА ТЕЛА</string>
+    <string name="very_underweight">ВЫРАЖЕНЫЙ ДЕФИЦЫТ МАССЫ ТЕЛА</string>
+    <string name="severely_underweight">ЛЕГКИЙ ДЕФИЦЫТ МАССЫ ТЕЛА</string>
+    <string name="obese_class_1">ОЖИРЕНИЕ 1 СТЕПЕНИ</string>
+    <string name="obese_class_2">ОЖИРЕНИЕ 2 СТЕПЕНИ</string>
+    <string name="obese_class_3">ОЖИРЕНИЕ 3 СТЕПЕНИ</string>
+    <string name="obese_class_4">ОЖИРЕНИЕ 4 СТЕПЕНИ</string>
+    <string name="obese_class_5">ОЖИРЕНИЕ 5 СТЕПЕНИ</string>
+    <string name="obese_class_6">ОЖИРЕНИЕ 6 СТЕПЕНИ</string>
+
+    <string name="you_have_a">У вас  </string>
+    <string name="body_weight"> вес тела. </string>
+
+    <string name="good_job">ХОРОШАЯ РАБОТА!</string>
+
+</resources>

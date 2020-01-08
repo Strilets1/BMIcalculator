@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">WEIGHT</string>
+    <string name="age">AGE</string>
+
+    <string name="you_have_a_normal_body_weight_good_job">You have a normal body weight. Good job!</string>
+
+    <string name="normal">NORMAL</string>
+    <string name="underweight">UNDERWEIGHT</string>
+    <string name="over_weight">OVER WEIGHT</string>
+    <string name="very_underweight">VERY SEVERELY UNDERWEIGHT</string>
+    <string name="severely_underweight">SEVERELY UNDERWEIGHT</string>
+    <string name="obese_class_1">MODERATELY OBESE</string>
+    <string name="obese_class_2">SEVERELY OBESE</string>
+    <string name="obese_class_3">VERY SEVERELY OBESE</string>
+    <string name="obese_class_4">MORBIDLY OBESE</string>
+    <string name="obese_class_5">SUPER OBESE</string>
+    <string name="obese_class_6">HYPER OBESE</string>
+
+    <string name="you_have_a">You have a </string>
+    <string name="body_weight"> body weight. </string>
+
+    <string name="good_job">Good job!</string>
+    <string name="your_result">Your Result</string>
+
+</resources>
